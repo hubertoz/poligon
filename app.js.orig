@@ -22,6 +22,12 @@ Ext.application({
 //pull do >>>>
 //lokalizacja > poligon
 //zmiany w poligon ....
-//AAAAAAA
+<<<<<<< HEAD
+//edycja poligon_work
 //BBBBBBBB
+
 //CCCCCCC
+=======
+//AAAAAAAAAAAAAAAA
+//edycja poligon_work
+>>>>>>> 43b590e51a8a9758268553b4d2ec5d86ff9dff69
