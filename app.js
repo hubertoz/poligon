@@ -22,4 +22,5 @@ Ext.application({
 //pull do >>>>
 //lokalizacja > poligon
 //zmiany w poligon ....
+//poligon bla bla bla
 
